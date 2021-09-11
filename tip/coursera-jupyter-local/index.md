@@ -3,7 +3,7 @@ layout: post
 belong: tip
 title: "courera 강의 주피터 과제 로컬에 정리하기"
 excerpt: courera의 딥러닝 강의 'Deep Learning Specialization' 은 웹으로 주피터 과제를 제공한다. 복습을 위해서 계속 각 course 의 week의 assignment 를 들어가야한다. 각 week 는 다른 페이지로 구성되어 있기 때문에, assignment 만 스위칭해서 보기 힘들다. 이를 해결하기 위해 로컬에 정리를 하는 방법에 대해 적는다.
-work-in-progress: true
+work-in-progress: false
 comments: true
 ---
 
